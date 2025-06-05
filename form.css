@@ -1,0 +1,17 @@
+body {
+  background-color: #081b29;
+}
+
+textarea {
+  width: 100%;
+  resize: none;
+}
+
+form {
+  max-width: 400px;
+  width: 100%;
+}
+
+.btn-success {
+  font-size: 14px;
+}
